@@ -8,4 +8,9 @@
 
 (PC-23504, PC-23505) feat: Création branch bugFix et commit 3 dans readme
 
+(PC-23505) feat: Ajout de text dans readme pour commit 4 sur main dans readme
+
 (PC-23506) feat: Ajout de text dans readme pour commit 5 sur bugFix dans readme
+
+(PC-23506) feat: Ajout de text dans readme pour commit 6 sur main dans readme
+
