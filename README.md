@@ -1,3 +1,3 @@
 # learngitbranching
 
-1. commit1 sur main
+1. commit_1 sur main_git_2
